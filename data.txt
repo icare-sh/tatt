@@ -1,0 +1,11 @@
+Bonj�ur James,
+
+Je vous envoie ci-après la clé de chiffrement utilisée par le serveur principal de notre société. Il utilise le chiffrement symétrique Blowfish en mode CCM:
+
+clé: 765C4425c443AAF909862430BDA6C2C45FA
+ 
+Veuillez effectuer le virement sur le compte bancaire suivant: 9898 32220B 32.
+
+N'oubliez pas de supprimer tous les fichiers compromettants.
+Cordialement,
+Paul
